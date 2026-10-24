@@ -1,0 +1,6 @@
+{
+  "name": "StudyMedSmart — منصة د/عمرو البركي و د/حسام عيسى",
+  "description": "هدفنا هو واحد ازاى نخليك تضمن الامتياز باذن الله في كليتك الطبية (طب صيدلة تمريض علاج طبيعي اسنان علوم)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
